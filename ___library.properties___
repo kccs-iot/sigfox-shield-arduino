@@ -1,9 +1,0 @@
-name=Arduino_Sigfox_for_UnaShield
-version=1.0
-author=KCCS Partner <kccs-partner@kccs.co.jp>
-maintainer=KCCS Partner <kccs-partner@kccs.co.jp>
-sentence=A library that sending sensors data by Sigfox.
-paragraph=Supports Sigfox Shield for Arduino (UnaBiz UnaShield).
-category=Communication
-url=https://www.kccs.co.jp/sigfox/
-architectures=avr
