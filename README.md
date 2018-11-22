@@ -2,6 +2,13 @@
 Sigfox Shield for Arduino (UnaShield) - Japan samples
 ZIPダウンロード後、Arduino IDEでダウンロードしたZIPファイルを指定して、ライブラリをインクルードしてください。
 
+## Sigfox Shield for Arduino (UnaShield)の入手方法
+下記サイトからご購入ください。
+https://www.marutsu.co.jp/pc/i/952284/
+http://eleshop.jp/shop/g/gHAR311/
+https://www.switch-science.com/catalog/3354/
+https://soracom.jp/products/sigfox/
+
 # サンプルスケッチ
 
 ## basic-demo
